@@ -1,6 +1,6 @@
 # smartMoneyMovement
 
-In this I analysed FII DII smartMoney movement using python/pandas
+In this I analysed FII DII smartMoney movement using python/pandas..
 analysed positions of bigPlayrs by using OI data from NSE site
 
 Took datas from https://www.nseindia.com/all-reports-derivatives
